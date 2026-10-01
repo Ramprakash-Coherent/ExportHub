@@ -1,0 +1,698 @@
+Keyword,Entities,Group,Priority
+Vertical Farming Rack,Vertical farming / racking systems provider,product_goods,1
+Multi Tier Grow Rack,Vertical farming / racking systems provider,product_goods,1
+Hydroponic Tower System,Vertical farming / racking systems provider,product_goods,1
+Vertical Grow Shelf,Vertical farming / racking systems provider,product_goods,1
+Aeroponic Tower System,Vertical farming / racking systems provider,product_goods,1
+Modular Grow Rack,Vertical farming / racking systems provider,product_goods,1
+Container Farm System,Vertical farming / racking systems provider,product_goods,1
+Vertical Grow Tray,Vertical farming / racking systems provider,product_goods,1
+Mobile Grow Rack,Vertical farming / racking systems provider,product_goods,1
+Indoor Farm Shelving,Vertical farming / racking systems provider,product_goods,1
+A-Frame Grow Rack,Vertical farming / racking systems provider,product_goods,1
+Vertical Farming LED Rack,Vertical farming / racking systems provider,product_goods,1
+Stacked Hydroponic System,Vertical farming / racking systems provider,product_goods,1
+NFT Growing Channel,Vertical farming / racking systems provider,product_goods,1
+Vertical Farm Grow Light,Vertical farming / racking systems provider,product_goods,1
+Plant Factory System,Vertical farming / racking systems provider,product_goods,1
+Warehouse Farming Rack,Vertical farming / racking systems provider,product_goods,1
+Living Wall System,Vertical farming / racking systems provider,product_goods,1
+Vertical Herb Growing System,Vertical farming / racking systems provider,product_goods,1
+Rolling Bench System,Vertical farming / racking systems provider,product_goods,1
+Rotavator,Agri input / equipment manufacturer,product_goods,1
+Power Weeder,Agri input / equipment manufacturer,product_goods,1
+Seed Drill,Agri input / equipment manufacturer,product_goods,1
+Disc Plough,Agri input / equipment manufacturer,product_goods,1
+Cultivator,Agri input / equipment manufacturer,product_goods,1
+Harrow,Agri input / equipment manufacturer,product_goods,1
+Sprayer Pump,Agri input / equipment manufacturer,product_goods,1
+Knapsack Sprayer,Agri input / equipment manufacturer,product_goods,1
+Power Tiller,Agri input / equipment manufacturer,product_goods,1
+Combine Harvester,Agri input / equipment manufacturer,product_goods,1
+Thresher Machine,Agri input / equipment manufacturer,product_goods,1
+Chaff Cutter,Agri input / equipment manufacturer,product_goods,1
+Seed Cum Fertilizer Drill,Agri input / equipment manufacturer,product_goods,1
+Straw Reaper,Agri input / equipment manufacturer,product_goods,1
+Potato Planter,Agri input / equipment manufacturer,product_goods,1
+Transplanter Machine,Agri input / equipment manufacturer,product_goods,1
+Brush Cutter,Agri input / equipment manufacturer,product_goods,1
+Farm Trolley,Agri input / equipment manufacturer,product_goods,1
+Post Hole Digger,Agri input / equipment manufacturer,product_goods,1
+Boom Sprayer,Agri input / equipment manufacturer,product_goods,1
+Fertilizer Bag Packaging,Agri input / equipment distributor,product_goods,1
+Agrochemical Packaging,Agri input / equipment distributor,product_goods,1
+Farm Tool Kit,Agri input / equipment distributor,product_goods,1
+Irrigation Fitting,Agri input / equipment distributor,product_goods,1
+Agricultural Hand Tool,Agri input / equipment distributor,product_goods,1
+Pesticide Sprayer Nozzle,Agri input / equipment distributor,product_goods,1
+Farm Hardware,Agri input / equipment distributor,product_goods,1
+Seed Packet,Agri input / equipment distributor,product_goods,1
+Agri Machinery Spare Part,Agri input / equipment distributor,product_goods,1
+PVC Pipe Fitting,Agri input / equipment distributor,product_goods,1
+Drip Irrigation Kit,Agri input / equipment distributor,product_goods,1
+Greenhouse Film,Agri input / equipment distributor,product_goods,1
+Mulching Film,Agri input / equipment distributor; Plastics & infrastructure components,product_goods,1
+Shade Net,Agri input / equipment distributor; Plastics & infrastructure components,product_goods,1
+Fertilizer Storage Tank,Liquid / fertilizer storage solutions provider,product_goods,1
+Liquid Fertilizer Tank,Liquid / fertilizer storage solutions provider,product_goods,1
+HDPE Chemical Tank,Liquid / fertilizer storage solutions provider,product_goods,1
+Bulk Fertilizer Silo,Liquid / fertilizer storage solutions provider,product_goods,1
+Agrochemical Storage Container,Liquid / fertilizer storage solutions provider,product_goods,1
+Vertical Storage Tank,Liquid / fertilizer storage solutions provider,product_goods,1
+Molasses Storage Tank,Liquid / fertilizer storage solutions provider,product_goods,1
+Pesticide Storage Tank,Liquid / fertilizer storage solutions provider,product_goods,1
+Bunded Fertilizer Tank,Liquid / fertilizer storage solutions provider,product_goods,1
+FRP Storage Tank,Liquid / fertilizer storage solutions provider,product_goods,1
+Bulk Liquid Container,Liquid / fertilizer storage solutions provider,product_goods,1
+Chemical Mixing Tank,Liquid / fertilizer storage solutions provider,product_goods,1
+Fertilizer Silo Bag,Liquid / fertilizer storage solutions provider,product_goods,1
+Tank Farm Storage System,Liquid / fertilizer storage solutions provider,product_goods,1
+Urea Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+DAP Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+NPK Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+MOP Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+SSP Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Calcium Nitrate Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Potassium Sulphate Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Micronutrient Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Organic Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Bio Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Vermicompost,Fertilizers and crop nutrition supplier,product_goods,1
+Foliar Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Water Soluble Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Slow Release Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Amino Acid Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Seaweed Extract Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Humic Acid Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Zinc Sulphate Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Boron Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Magnesium Sulphate Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Sulphur Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Ammonium Sulphate,Fertilizers and crop nutrition supplier,product_goods,1
+Single Super Phosphate,Fertilizers and crop nutrition supplier,product_goods,1
+Compost Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Chelated Micronutrient,Fertilizers and crop nutrition supplier,product_goods,1
+Ferrous Sulphate Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Manganese Sulphate Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Copper Sulphate Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Calcium Ammonium Nitrate,Fertilizers and crop nutrition supplier,product_goods,1
+Potassium Nitrate Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Monoammonium Phosphate,Fertilizers and crop nutrition supplier,product_goods,1
+Diammonium Phosphate,Fertilizers and crop nutrition supplier,product_goods,1
+Bone Meal Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Neem Cake Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+Poultry Manure Fertilizer,Fertilizers and crop nutrition supplier,product_goods,1
+NPK 19-19-19,Fertilizers and crop nutrition supplier,product_goods,1
+NPK 20-20-0,Fertilizers and crop nutrition supplier,product_goods,1
+NPK 12-32-16,Fertilizers and crop nutrition supplier,product_goods,1
+NPK 10-26-26,Fertilizers and crop nutrition supplier,product_goods,1
+Urea 46,Fertilizers and crop nutrition supplier,product_goods,1
+MOP 60,Fertilizers and crop nutrition supplier,product_goods,1
+Coco Peat Block,Coco peat / substrate supplier,product_goods,1
+Coco Peat Grow Bag,Coco peat / substrate supplier,product_goods,1
+Coir Pith,Coco peat / substrate supplier,product_goods,1
+Coco Chip,Coco peat / substrate supplier,product_goods,1
+Coco Husk Chip,Coco peat / substrate supplier,product_goods,1
+Perlite Growing Media,Coco peat / substrate supplier,product_goods,1
+Vermiculite,Coco peat / substrate supplier,product_goods,1
+Rockwool Slab,Coco peat / substrate supplier,product_goods,1
+Peat Moss,Coco peat / substrate supplier,product_goods,1
+Growing Media Mix,Coco peat / substrate supplier,product_goods,1
+Coir Substrate Slab,Coco peat / substrate supplier,product_goods,1
+Coco Peat Briquette,Coco peat / substrate supplier,product_goods,1
+Coco Fiber,Coco peat / substrate supplier,product_goods,1
+Soilless Growing Media,Coco peat / substrate supplier,product_goods,1
+Cocopeat Powder,Coco peat / substrate supplier,product_goods,1
+Sphagnum Moss,Coco peat / substrate supplier,product_goods,1
+Compressed Coco Peat,Coco peat / substrate supplier,product_goods,1
+Coir Grow Cube,Coco peat / substrate supplier,product_goods,1
+Cocopeat Grow Slab,Coco peat / substrate supplier,product_goods,1
+Biodegradable Grow Pot,Coco peat / substrate supplier,product_goods,1
+Jiffy Pellet,Coco peat / substrate supplier,product_goods,1
+Biopesticide,Agri inputs & solutions supplier,product_goods,1
+Biostimulant,Agri inputs & solutions supplier,product_goods,1
+Plant Growth Regulator,Agri inputs & solutions supplier,product_goods,1
+Soil Conditioner,Agri inputs & solutions supplier,product_goods,1
+Seed Treatment Chemical,Agri inputs & solutions supplier,product_goods,1
+Crop Nutrient Solution,Agri inputs & solutions supplier,product_goods,1
+Agricultural Adjuvant,Agri inputs & solutions supplier,product_goods,1
+Soil Amendment,Agri inputs & solutions supplier,product_goods,1
+Micronutrient Mixture,Agri inputs & solutions supplier,product_goods,1
+Organic Soil Enhancer,Agri inputs & solutions supplier,product_goods,1
+Crop Booster,Agri inputs & solutions supplier,product_goods,1
+Root Stimulant,Agri inputs & solutions supplier,product_goods,1
+Foliar Spray Solution,Agri inputs & solutions supplier,product_goods,1
+Yield Enhancer,Agri inputs & solutions supplier,product_goods,1
+Farm Management Software,Tech / digital solutions provider,product_goods,1
+Precision Agriculture Platform,Tech / digital solutions provider,product_goods,1
+Crop Monitoring App,Tech / digital solutions provider,product_goods,1
+Agri ERP Software,Tech / digital solutions provider,product_goods,1
+Soil Testing App,Tech / digital solutions provider,product_goods,1
+Livestock Management Software,Tech / digital solutions provider,product_goods,1
+Farm Data Analytics Platform,Tech / digital solutions provider,product_goods,1
+Agri Marketplace App,Tech / digital solutions provider,product_goods,1
+Yield Prediction Software,Tech / digital solutions provider,product_goods,1
+Weather Forecasting Platform Agriculture,Tech / digital solutions provider,product_goods,1
+Remote Sensing Software,Tech / digital solutions provider,product_goods,1
+Farm Mapping Software,Tech / digital solutions provider,product_goods,1
+Agri Supply Chain Software,Tech / digital solutions provider,product_goods,1
+Traceability Software Agriculture,Tech / digital solutions provider,product_goods,1
+Greenhouse Plastic Film,Plastics & infrastructure components,product_goods,1
+Anti Insect Net,Plastics & infrastructure components,product_goods,1
+HDPE Pipe,Plastics & infrastructure components,product_goods,1
+PVC Pipe Agriculture,Plastics & infrastructure components,product_goods,1
+PE Pond Liner,Plastics & infrastructure components,product_goods,1
+Silage Bag,Plastics & infrastructure components,product_goods,1
+Poly Tunnel Film,Plastics & infrastructure components,product_goods,1
+Woven Ground Cover,Plastics & infrastructure components,product_goods,1
+Nursery Poly Bag,Plastics & infrastructure components,product_goods,1
+Plastic Crate Agriculture,Plastics & infrastructure components,product_goods,1
+Irrigation Pipe Fitting,Plastics & infrastructure components,product_goods,1
+Drip Tape,Plastics & infrastructure components,product_goods,1
+Greenhouse Cladding Sheet,Plastics & infrastructure components,product_goods,1
+Polycarbonate Sheet,Plastics & infrastructure components,product_goods,1
+Greenhouse Roll Up Side,Plastics & infrastructure components,product_goods,1
+Insect Screen Net,Plastics & infrastructure components,product_goods,1
+Weed Mat,Plastics & infrastructure components,product_goods,1
+Grow Bag Plastic,Plastics & infrastructure components,product_goods,1
+Vermibed Liner,Plastics & infrastructure components,product_goods,1
+Insecticide,Crop protection & agrochemicals supplier,product_goods,1
+Fungicide,Crop protection & agrochemicals supplier,product_goods,1
+Herbicide,Crop protection & agrochemicals supplier,product_goods,1
+Weedicide,Crop protection & agrochemicals supplier,product_goods,1
+Nematicide,Crop protection & agrochemicals supplier,product_goods,1
+Rodenticide,Crop protection & agrochemicals supplier,product_goods,1
+Bio Pesticide,Crop protection & agrochemicals supplier,product_goods,1
+Plant Fungicide Spray,Crop protection & agrochemicals supplier,product_goods,1
+Systemic Insecticide,Crop protection & agrochemicals supplier,product_goods,1
+Pre Emergent Herbicide,Crop protection & agrochemicals supplier,product_goods,1
+Post Emergent Herbicide,Crop protection & agrochemicals supplier,product_goods,1
+Crop Protection Chemical,Crop protection & agrochemicals supplier,product_goods,1
+Agrochemical Formulation,Crop protection & agrochemicals supplier,product_goods,1
+Pesticide Concentrate,Crop protection & agrochemicals supplier,product_goods,1
+Seed Treatment Fungicide,Crop protection & agrochemicals supplier,product_goods,1
+Miticide,Crop protection & agrochemicals supplier,product_goods,1
+Molluscicide,Crop protection & agrochemicals supplier,product_goods,1
+Acephate,Crop protection & agrochemicals supplier,product_goods,1
+Cypermethrin,Crop protection & agrochemicals supplier,product_goods,1
+Profenofos,Crop protection & agrochemicals supplier,product_goods,1
+Thiamethoxam,Crop protection & agrochemicals supplier,product_goods,1
+Difenoconazole,Crop protection & agrochemicals supplier,product_goods,1
+Propiconazole,Crop protection & agrochemicals supplier,product_goods,1
+Metalaxyl,Crop protection & agrochemicals supplier,product_goods,1
+Azoxystrobin,Crop protection & agrochemicals supplier,product_goods,1
+Tebuconazole,Crop protection & agrochemicals supplier,product_goods,1
+Hexaconazole,Crop protection & agrochemicals supplier,product_goods,1
+Atrazine Herbicide,Crop protection & agrochemicals supplier,product_goods,1
+Pendimethalin,Crop protection & agrochemicals supplier,product_goods,1
+Butachlor,Crop protection & agrochemicals supplier,product_goods,1
+"2,4-D Herbicide",Crop protection & agrochemicals supplier,product_goods,1
+Paraquat Dichloride,Crop protection & agrochemicals supplier,product_goods,1
+Copper Oxychloride,Crop protection & agrochemicals supplier,product_goods,1
+Sulphur Dust Fungicide,Crop protection & agrochemicals supplier,product_goods,1
+Trichoderma Viride,Crop protection & agrochemicals supplier,product_goods,1
+Pheromone Trap,Crop protection & agrochemicals supplier,product_goods,1
+Bulk Grain Trading,Regional agri trading / distribution company,product_goods,1
+Commodity Trading Agriculture,Regional agri trading / distribution company,product_goods,1
+Agri Export Trading,Regional agri trading / distribution company,product_goods,1
+Wholesale Fertilizer Trading,Regional agri trading / distribution company,product_goods,1
+Feed Grain Trading,Regional agri trading / distribution company,product_goods,1
+Spice Trading,Regional agri trading / distribution company,product_goods,1
+Pulses Trading,Regional agri trading / distribution company,product_goods,1
+Rice Trading,Regional agri trading / distribution company,product_goods,1
+Wheat Trading,Regional agri trading / distribution company,product_goods,1
+Sugar Trading,Regional agri trading / distribution company,product_goods,1
+Edible Oil Trading,Regional agri trading / distribution company,product_goods,1
+Agri Commodity Broker,Regional agri trading / distribution company,product_goods,1
+Fresh Produce Trading,Regional agri trading / distribution company,product_goods,1
+Grain Export Company,Regional agri trading / distribution company,product_goods,1
+Vertical Farming Solution,Innovative agri solutions supplier,product_goods,1
+Smart Irrigation Solution,Innovative agri solutions supplier,product_goods,1
+Precision Farming Solution,Innovative agri solutions supplier,product_goods,1
+Climate Smart Agriculture Solution,Innovative agri solutions supplier,product_goods,1
+Digital Agriculture Platform,Innovative agri solutions supplier,product_goods,1
+AgTech Innovation,Innovative agri solutions supplier,product_goods,1
+Sustainable Farming Solution,Innovative agri solutions supplier,product_goods,1
+Farm Automation Solution,Innovative agri solutions supplier,product_goods,1
+Biotech Agriculture Product,Innovative agri solutions supplier,product_goods,1
+Novel Crop Input,Innovative agri solutions supplier,product_goods,1
+Next Gen Fertilizer,Innovative agri solutions supplier,product_goods,1
+Smart Farming Kit,Innovative agri solutions supplier,product_goods,1
+Fish Feed,Aquaculture products & services provider,product_goods,1
+Shrimp Feed,Aquaculture products & services provider,product_goods,1
+Aquaculture Cage,Aquaculture products & services provider,product_goods,1
+Fish Hatchery Equipment,Aquaculture products & services provider,product_goods,1
+Aquaculture Water Treatment,Aquaculture products & services provider,product_goods,1
+Aeration System Aquaculture,Aquaculture products & services provider,product_goods,1
+Fish Pond Liner,Aquaculture products & services provider,product_goods,1
+Shrimp Hatchery Equipment,Aquaculture products & services provider,product_goods,1
+Aquaculture Probiotic,Aquaculture products & services provider,product_goods,1
+RAS System,Aquaculture products & services provider,product_goods,1
+Fish Farming Net Cage,Aquaculture products & services provider,product_goods,1
+Biofloc System,Aquaculture products & services provider,product_goods,1
+Aquaculture Feed Additive,Aquaculture products & services provider,product_goods,1
+Fish Health Product,Aquaculture products & services provider,product_goods,1
+Aquaculture Aerator,Aquaculture input & technology suppliers; Aquaculture products & services provider,product_goods,1
+Shrimp Post Larvae,Aquaculture products & services provider,product_goods,1
+Fish Feed Extruder,Aquaculture products & services provider,product_goods,1
+Aquaculture Diagnostic Kit,Aquaculture products & services provider,product_goods,1
+Water Quality Test Kit Aquaculture,Aquaculture products & services provider,product_goods,1
+Fish Growth Promoter,Aquaculture products & services provider,product_goods,1
+Aquaculture Disinfectant,Aquaculture products & services provider,product_goods,1
+Contract Farming,Large-scale farm owners & agribusiness groups,product_goods,1
+Large Scale Grain Farm,Large-scale farm owners & agribusiness groups,product_goods,1
+Commercial Plantation,Large-scale farm owners & agribusiness groups,product_goods,1
+Agribusiness Group,Large-scale farm owners & agribusiness groups,product_goods,1
+Farmland Investment,Large-scale farm owners & agribusiness groups,product_goods,1
+Integrated Farming Operation,Large-scale farm owners & agribusiness groups,product_goods,1
+Cash Crop Plantation,Large-scale farm owners & agribusiness groups,product_goods,1
+Sugarcane Plantation,Large-scale farm owners & agribusiness groups,product_goods,1
+Palm Oil Plantation,Large-scale farm owners & agribusiness groups,product_goods,1
+Cotton Farming Operation,Large-scale farm owners & agribusiness groups,product_goods,1
+Commercial Wheat Farm,Large-scale farm owners & agribusiness groups,product_goods,1
+Rice Plantation,Large-scale farm owners & agribusiness groups,product_goods,1
+Agri Export Farm,Large-scale farm owners & agribusiness groups,product_goods,1
+Commercial Greenhouse Operation,Greenhouse & controlled-environment farming operators,product_goods,1
+Polyhouse Farming,Greenhouse & controlled-environment farming operators,product_goods,1
+CEA Vegetable Production,Greenhouse & controlled-environment farming operators,product_goods,1
+Greenhouse Tomato Farm,Greenhouse & controlled-environment farming operators,product_goods,1
+Greenhouse Cucumber Farm,Greenhouse & controlled-environment farming operators,product_goods,1
+Hydroponic Greenhouse Farm,Greenhouse & controlled-environment farming operators,product_goods,1
+Climate Controlled Farm,Greenhouse & controlled-environment farming operators,product_goods,1
+Greenhouse Flower Farm,Greenhouse & controlled-environment farming operators,product_goods,1
+Protected Cultivation Farm,Greenhouse & controlled-environment farming operators,product_goods,1
+Greenhouse Strawberry Farm,Greenhouse & controlled-environment farming operators,product_goods,1
+Netted Greenhouse Farm,Greenhouse & controlled-environment farming operators,product_goods,1
+Indoor Vertical Farm,Urban / vertical farming companies,product_goods,1
+Urban Rooftop Farm,Urban / vertical farming companies,product_goods,1
+Container Farming Operation,Urban / vertical farming companies,product_goods,1
+Vertical Farm Leafy Greens,Urban / vertical farming companies,product_goods,1
+Urban Hydroponic Farm,Urban / vertical farming companies,product_goods,1
+City Farm Operation,Urban / vertical farming companies,product_goods,1
+Warehouse Farm,Urban / vertical farming companies,product_goods,1
+Microgreen Farm,Urban / vertical farming companies,product_goods,1
+Indoor Herb Farm,Urban / vertical farming companies,product_goods,1
+Plant Factory Operation,Urban / vertical farming companies,product_goods,1
+Plant Nursery,Nurseries & landscaping firms,product_goods,1
+Ornamental Plant Nursery,Nurseries & landscaping firms,product_goods,1
+Fruit Sapling Nursery,Nurseries & landscaping firms,product_goods,1
+Tissue Culture Plant,Nurseries & landscaping firms,product_goods,1
+Landscape Gardening Service,Nurseries & landscaping firms,product_goods,1
+Turf Grass Supply,Nurseries & landscaping firms,product_goods,1
+Landscape Plant Supply,Nurseries & landscaping firms,product_goods,1
+Bonsai Nursery,Nurseries & landscaping firms,product_goods,1
+Flowering Plant Nursery,Nurseries & landscaping firms,product_goods,1
+Palm Tree Nursery,Nurseries & landscaping firms,product_goods,1
+Landscaping Contractor,Nurseries & landscaping firms,product_goods,1
+Garden Design Service,Nurseries & landscaping firms,product_goods,1
+Nursery Sapling,Nurseries & landscaping firms,product_goods,1
+Grafted Plant Sapling,Nurseries & landscaping firms,product_goods,1
+Dairy Farm Operation,"Livestock farm operators (beef, dairy, sheep)",product_goods,1
+Cattle Ranch,"Livestock farm operators (beef, dairy, sheep)",product_goods,1
+Beef Cattle Farm,"Livestock farm operators (beef, dairy, sheep)",product_goods,1
+Sheep Farm,"Livestock farm operators (beef, dairy, sheep)",product_goods,1
+Goat Farm,"Livestock farm operators (beef, dairy, sheep)",product_goods,1
+Dairy Cattle Breeding,"Livestock farm operators (beef, dairy, sheep)",product_goods,1
+Livestock Feedlot,"Livestock farm operators (beef, dairy, sheep)",product_goods,1
+Cattle Fattening Farm,"Livestock farm operators (beef, dairy, sheep)",product_goods,1
+Dairy Milking Parlor,"Livestock farm operators (beef, dairy, sheep)",product_goods,1
+Sheep Wool Farm,"Livestock farm operators (beef, dairy, sheep)",product_goods,1
+Broiler Poultry Farm,Poultry farms and integrators,product_goods,1
+Layer Poultry Farm,Poultry farms and integrators,product_goods,1
+Poultry Hatchery,Poultry farms and integrators,product_goods,1
+Poultry Integration Business,Poultry farms and integrators,product_goods,1
+Egg Production Farm,Poultry farms and integrators,product_goods,1
+Chicken Broiler Operation,Poultry farms and integrators,product_goods,1
+Duck Farming,Poultry farms and integrators,product_goods,1
+Turkey Farm,Poultry farms and integrators,product_goods,1
+Poultry Breeding Farm,Poultry farms and integrators,product_goods,1
+Free Range Poultry Farm,Poultry farms and integrators,product_goods,1
+Compound Feed Mill,Feed mill operators & nutrition managers,product_goods,1
+Poultry Feed Mill,Feed mill operators & nutrition managers,product_goods,1
+Cattle Feed Mill,Feed mill operators & nutrition managers,product_goods,1
+Fish Feed Mill,Feed mill operators & nutrition managers,product_goods,1
+Animal Feed Pellet,Feed mill operators & nutrition managers,product_goods,1
+Feed Premix,Feed mill operators & nutrition managers,product_goods,1
+Feed Additive,Feed mill operators & nutrition managers,product_goods,1
+Feed Supplement,Feed mill operators & nutrition managers,product_goods,1
+Silage Feed,Feed mill operators & nutrition managers,product_goods,1
+Molasses Feed Block,Feed mill operators & nutrition managers,product_goods,1
+Feed Concentrate,Feed mill operators & nutrition managers,product_goods,1
+Mineral Feed Mixture,Feed mill operators & nutrition managers,product_goods,1
+Extruded Fish Feed,Feed mill operators & nutrition managers,product_goods,1
+Pelleted Cattle Feed,Feed mill operators & nutrition managers,product_goods,1
+Broiler Starter Feed,Feed mill operators & nutrition managers,product_goods,1
+Layer Feed,Feed mill operators & nutrition managers,product_goods,1
+Broiler Finisher Feed,Feed mill operators & nutrition managers,product_goods,1
+Layer Grower Feed,Feed mill operators & nutrition managers,product_goods,1
+Dairy Cattle Feed,Feed mill operators & nutrition managers,product_goods,1
+Goat Feed,Feed mill operators & nutrition managers,product_goods,1
+Sheep Feed,Feed mill operators & nutrition managers,product_goods,1
+Calf Starter Feed,Feed mill operators & nutrition managers,product_goods,1
+Pig Feed,Feed mill operators & nutrition managers,product_goods,1
+Rabbit Feed,Feed mill operators & nutrition managers,product_goods,1
+Shrimp Farming Operation,Fish and shrimp farm operators,product_goods,1
+Fish Farming Pond,Fish and shrimp farm operators,product_goods,1
+Tilapia Farm,Fish and shrimp farm operators,product_goods,1
+Catfish Farm,Fish and shrimp farm operators,product_goods,1
+Carp Farming,Fish and shrimp farm operators,product_goods,1
+Shrimp Hatchery,Fish and shrimp farm operators,product_goods,1
+Fish Hatchery,Fish and shrimp farm operators,product_goods,1
+Marine Fish Farm,Fish and shrimp farm operators,product_goods,1
+Freshwater Fish Farm,Fish and shrimp farm operators,product_goods,1
+Prawn Farming,Fish and shrimp farm operators,product_goods,1
+Aquaponics System,Aquaponics & RAS operators,product_goods,1
+Recirculating Aquaculture System,Aquaponics & RAS operators,product_goods,1
+RAS Fish Farming,Aquaponics & RAS operators,product_goods,1
+Aquaponic Vegetable Production,Aquaponics & RAS operators,product_goods,1
+Biofloc Fish Farming,Aquaponics & RAS operators,product_goods,1
+Indoor Fish Farming System,Aquaponics & RAS operators,product_goods,1
+Closed Loop Aquaculture,Aquaponics & RAS operators,product_goods,1
+Cold Chain Logistics Agriculture,Supply chain & logistics decision-makers,product_goods,1
+Agri Warehousing Service,Supply chain & logistics decision-makers,product_goods,1
+Reefer Container Transport,Supply chain & logistics decision-makers,product_goods,1
+Agricultural Freight Forwarding,Supply chain & logistics decision-makers,product_goods,1
+Farm To Market Logistics,Supply chain & logistics decision-makers,product_goods,1
+Grain Storage Silo,Supply chain & logistics decision-makers,product_goods,1
+Agri Supply Chain Service,Supply chain & logistics decision-makers,product_goods,1
+Perishable Goods Transport,Supply chain & logistics decision-makers,product_goods,1
+Cold Storage Facility,Supply chain & logistics decision-makers,product_goods,1
+Agri Distribution Network,Supply chain & logistics decision-makers,product_goods,1
+Organic Farm Operation,Organic / regenerative farming operators,product_goods,1
+Certified Organic Produce,Organic / regenerative farming operators,product_goods,1
+Regenerative Agriculture Farm,Organic / regenerative farming operators,product_goods,1
+Organic Vegetable Farm,Organic / regenerative farming operators,product_goods,1
+No Till Farming Operation,Organic / regenerative farming operators,product_goods,1
+Cover Crop Farming,Organic / regenerative farming operators,product_goods,1
+Organic Fruit Orchard,Organic / regenerative farming operators,product_goods,1
+Biodynamic Farm,Organic / regenerative farming operators,product_goods,1
+Permaculture Farm,Organic / regenerative farming operators,product_goods,1
+Plant Based Protein,Alternative protein & circular economy ventures,product_goods,1
+Insect Protein,Alternative protein & circular economy ventures,product_goods,1
+Black Soldier Fly Farming,Alternative protein & circular economy ventures,product_goods,1
+Cultivated Meat,Alternative protein & circular economy ventures,product_goods,1
+Algae Protein,Alternative protein & circular economy ventures,product_goods,1
+Mycoprotein,Alternative protein & circular economy ventures,product_goods,1
+Food Waste Upcycling,Alternative protein & circular economy ventures,product_goods,1
+Single Cell Protein,Alternative protein & circular economy ventures,product_goods,1
+Alternative Protein Ingredient,Alternative protein & circular economy ventures,product_goods,1
+Solar Powered Irrigation,Renewable energy in agriculture adopters,product_goods,1
+Biogas Plant Farm,Renewable energy in agriculture adopters,product_goods,1
+Farm Solar Panel System,Renewable energy in agriculture adopters,product_goods,1
+Agrivoltaic System,Renewable energy in agriculture adopters,product_goods,1
+Solar Water Pump Agriculture,Renewable energy in agriculture adopters,product_goods,1
+Biomass Energy Farm,Renewable energy in agriculture adopters,product_goods,1
+Farm Wind Turbine,Renewable energy in agriculture adopters,product_goods,1
+Solar Dryer Agriculture,Renewable energy in agriculture adopters,product_goods,1
+Agri Machinery Dealer,"Dealers, distributors & importers",product_goods,1
+Fertilizer Importer,"Dealers, distributors & importers",product_goods,1
+Seed Importer,"Dealers, distributors & importers",product_goods,1
+Farm Equipment Dealer,"Dealers, distributors & importers",product_goods,1
+Pesticide Distributor,"Dealers, distributors & importers",product_goods,1
+Agrochemical Importer,"Dealers, distributors & importers",product_goods,1
+Irrigation Equipment Dealer,"Dealers, distributors & importers",product_goods,1
+Tractor Dealer,"Dealers, distributors & importers",product_goods,1
+Farm Implement Distributor,"Dealers, distributors & importers",product_goods,1
+Rice Exporter,Exporters & trading companies,product_goods,1
+Spice Exporter,Exporters & trading companies,product_goods,1
+Fruit Exporter,Exporters & trading companies,product_goods,1
+Vegetable Exporter,Exporters & trading companies,product_goods,1
+Grain Exporter,Exporters & trading companies,product_goods,1
+Frozen Seafood Exporter,Exporters & trading companies,product_goods,1
+Cashew Exporter,Exporters & trading companies,product_goods,1
+Coffee Exporter,Exporters & trading companies,product_goods,1
+Tea Exporter,Exporters & trading companies,product_goods,1
+Cotton Exporter,Exporters & trading companies,product_goods,1
+Sesame Seed Exporter,Exporters & trading companies,product_goods,1
+Basmati Rice Exporter,Exporters & trading companies,product_goods,1
+Hybrid Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Vegetable Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Field Crop Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Certified Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Biological Pesticide,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Biofungicide,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Biofertilizer,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Seed Coating,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Cereal Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Oilseed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Pulses Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Fodder Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Rootstock,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Tomato Hybrid Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Chili Hybrid Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Cotton Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Maize Hybrid Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Paddy Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Wheat Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Sunflower Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Mustard Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Vegetable Grafted Seedling,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Onion Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Cabbage Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Cauliflower Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Brinjal Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Okra Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Cucumber Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Watermelon Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Muskmelon Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Pumpkin Seed Agriculture,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Carrot Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Radish Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Spinach Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Bottle Gourd Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Bitter Gourd Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Ridge Gourd Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Capsicum Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Papaya Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Groundnut Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Soybean Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Sesame Seed Agriculture,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Sorghum Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Bajra Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Barley Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Gram Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Lentil Seed,"Seeds, crop protection, fertilizers & biologicals suppliers",product_goods,1
+Greenhouse Construction,Greenhouse construction & hydroponics providers,product_goods,1
+Polyhouse Construction,Greenhouse construction & hydroponics providers,product_goods,1
+Hydroponic System Installation,Greenhouse construction & hydroponics providers,product_goods,1
+NFT Hydroponic System,Greenhouse construction & hydroponics providers,product_goods,1
+Dutch Bucket Hydroponic System,Greenhouse construction & hydroponics providers,product_goods,1
+Greenhouse Steel Structure,Greenhouse construction & hydroponics providers,product_goods,1
+Greenhouse Turnkey Project,Greenhouse construction & hydroponics providers,product_goods,1
+Hydroponic Farming Kit,Greenhouse construction & hydroponics providers,product_goods,1
+Greenhouse Climate Control System,Greenhouse construction & hydroponics providers,product_goods,1
+Fan Pad Cooling System,Greenhouse construction & hydroponics providers,product_goods,1
+Greenhouse Automation System,Greenhouse construction & hydroponics providers,product_goods,1
+Vertical Hydroponic Tower Installation,Greenhouse construction & hydroponics providers,product_goods,1
+Ebb And Flow System,Greenhouse construction & hydroponics providers,product_goods,1
+Aeroponic System Installation,Greenhouse construction & hydroponics providers,product_goods,1
+Greenhouse Insect Screen Installation,Greenhouse construction & hydroponics providers,product_goods,1
+Tractor,Farm machinery & heavy equipment OEMs,product_goods,1
+Combine Harvester Machine,Farm machinery & heavy equipment OEMs,product_goods,1
+Farm Loader,Farm machinery & heavy equipment OEMs,product_goods,1
+Baler Machine,Farm machinery & heavy equipment OEMs,product_goods,1
+Silage Harvester,Farm machinery & heavy equipment OEMs,product_goods,1
+Sugarcane Harvester,Farm machinery & heavy equipment OEMs,product_goods,1
+Cotton Picker Machine,Farm machinery & heavy equipment OEMs,product_goods,1
+Sprayer Boom Machine,Farm machinery & heavy equipment OEMs,product_goods,1
+Tillage Equipment,Farm machinery & heavy equipment OEMs,product_goods,1
+Farm Utility Vehicle,Farm machinery & heavy equipment OEMs,product_goods,1
+Backhoe Loader Farm,Farm machinery & heavy equipment OEMs,product_goods,1
+Agricultural Excavator,Farm machinery & heavy equipment OEMs,product_goods,1
+Rotary Tiller,Farm machinery & heavy equipment OEMs,product_goods,1
+Disc Harrow,Farm machinery & heavy equipment OEMs,product_goods,1
+Mould Board Plough,Farm machinery & heavy equipment OEMs,product_goods,1
+Subsoiler,Farm machinery & heavy equipment OEMs,product_goods,1
+Laser Land Leveler,Farm machinery & heavy equipment OEMs,product_goods,1
+Rice Transplanter,Farm machinery & heavy equipment OEMs,product_goods,1
+Combine Header,Farm machinery & heavy equipment OEMs,product_goods,1
+Round Baler,Farm machinery & heavy equipment OEMs,product_goods,1
+Square Baler,Farm machinery & heavy equipment OEMs,product_goods,1
+Manure Spreader,Farm machinery & heavy equipment OEMs,product_goods,1
+Mini Tractor,Farm machinery & heavy equipment OEMs,product_goods,1
+4WD Tractor,Farm machinery & heavy equipment OEMs,product_goods,1
+Orchard Tractor,Farm machinery & heavy equipment OEMs,product_goods,1
+Self Propelled Sprayer,Farm machinery & heavy equipment OEMs,product_goods,1
+Sugarcane Planter,Farm machinery & heavy equipment OEMs,product_goods,1
+Groundnut Digger,Farm machinery & heavy equipment OEMs,product_goods,1
+Maize Sheller,Farm machinery & heavy equipment OEMs,product_goods,1
+Paddy Thresher,Farm machinery & heavy equipment OEMs,product_goods,1
+Animal Feed Additive,Livestock nutrition & veterinary suppliers,product_goods,1
+Veterinary Vaccine,Livestock nutrition & veterinary suppliers,product_goods,1
+Livestock Antibiotic,Livestock nutrition & veterinary suppliers,product_goods,1
+Animal Health Supplement,Livestock nutrition & veterinary suppliers,product_goods,1
+Veterinary Medicine,Livestock nutrition & veterinary suppliers,product_goods,1
+Poultry Vaccine,Livestock nutrition & veterinary suppliers,product_goods,1
+Cattle Feed Supplement,Livestock nutrition & veterinary suppliers,product_goods,1
+Mineral Mixture Livestock,Livestock nutrition & veterinary suppliers,product_goods,1
+Dewormer Livestock,Livestock nutrition & veterinary suppliers,product_goods,1
+Animal Vitamin Supplement,Livestock nutrition & veterinary suppliers,product_goods,1
+Livestock Growth Promoter,Livestock nutrition & veterinary suppliers,product_goods,1
+Calcium Bolus,Livestock nutrition & veterinary suppliers,product_goods,1
+Liver Tonic Livestock,Livestock nutrition & veterinary suppliers,product_goods,1
+Anthelmintic,Livestock nutrition & veterinary suppliers,product_goods,1
+Poultry Antibiotic,Livestock nutrition & veterinary suppliers,product_goods,1
+Cattle Mineral Bolus,Livestock nutrition & veterinary suppliers,product_goods,1
+Milk Fever Treatment,Livestock nutrition & veterinary suppliers,product_goods,1
+Probiotic Poultry Feed,Livestock nutrition & veterinary suppliers,product_goods,1
+Aquafeed,Aquaculture input & technology suppliers,product_goods,1
+Shrimp Larvae,Aquaculture input & technology suppliers,product_goods,1
+Fish Fingerling,Aquaculture input & technology suppliers,product_goods,1
+Aquaculture Water Pump,Aquaculture input & technology suppliers,product_goods,1
+Fish Farming Net,Aquaculture input & technology suppliers,product_goods,1
+RAS Equipment,Aquaculture input & technology suppliers,product_goods,1
+Aquaculture Probiotic Supplement,Aquaculture input & technology suppliers,product_goods,1
+Aquaculture Biofilter,Aquaculture input & technology suppliers,product_goods,1
+Fish Farming Cage,Aquaculture input & technology suppliers,product_goods,1
+Shrimp Broodstock,Aquaculture input & technology suppliers,product_goods,1
+Fish Feed Pellet Machine,Aquaculture input & technology suppliers,product_goods,1
+Aquaculture Paddle Wheel Aerator,Aquaculture input & technology suppliers,product_goods,1
+Recirculating Filter Media,Aquaculture input & technology suppliers,product_goods,1
+Tilapia Feed,Aquaculture input & technology suppliers,product_goods,1
+Pangasius Feed,Aquaculture input & technology suppliers,product_goods,1
+Shrimp Grower Feed,Aquaculture input & technology suppliers,product_goods,1
+Shrimp Starter Feed,Aquaculture input & technology suppliers,product_goods,1
+Ornamental Fish Feed,Aquaculture input & technology suppliers,product_goods,1
+Drip Irrigation System,Water management & irrigation technology providers,product_goods,1
+Sprinkler Irrigation System,Water management & irrigation technology providers,product_goods,1
+Center Pivot Irrigation,Water management & irrigation technology providers,product_goods,1
+Micro Irrigation System,Water management & irrigation technology providers,product_goods,1
+Irrigation Filter,Water management & irrigation technology providers,product_goods,1
+Irrigation Pump,Water management & irrigation technology providers,product_goods,1
+Solar Irrigation Pump,Water management & irrigation technology providers,product_goods,1
+Irrigation Controller,Water management & irrigation technology providers,product_goods,1
+Fertigation System,Water management & irrigation technology providers,product_goods,1
+Water Pump Agriculture,Water management & irrigation technology providers,product_goods,1
+Rain Gun Sprinkler,Water management & irrigation technology providers,product_goods,1
+Irrigation Emitter,Water management & irrigation technology providers,product_goods,1
+Linear Move Irrigation System,Water management & irrigation technology providers,product_goods,1
+Drip Line,Water management & irrigation technology providers,product_goods,1
+Inline Dripper,Water management & irrigation technology providers,product_goods,1
+Micro Sprinkler,Water management & irrigation technology providers,product_goods,1
+Impact Sprinkler,Water management & irrigation technology providers,product_goods,1
+Hose Reel Irrigation,Water management & irrigation technology providers,product_goods,1
+Irrigation Valve,Water management & irrigation technology providers,product_goods,1
+Pressure Regulator Irrigation,Water management & irrigation technology providers,product_goods,1
+Water Filter Screen Irrigation,Water management & irrigation technology providers,product_goods,1
+Solenoid Valve Irrigation,Water management & irrigation technology providers,product_goods,1
+Irrigation Timer,Water management & irrigation technology providers,product_goods,1
+Agricultural Drone,"Agri-tech, IoT, drones & robotics providers",product_goods,1
+Crop Spraying Drone,"Agri-tech, IoT, drones & robotics providers",product_goods,1
+Soil Moisture Sensor,"Agri-tech, IoT, drones & robotics providers",product_goods,1
+Weather Station Agriculture,"Agri-tech, IoT, drones & robotics providers",product_goods,1
+Farm IoT Sensor,"Agri-tech, IoT, drones & robotics providers",product_goods,1
+Agricultural Robot,"Agri-tech, IoT, drones & robotics providers",product_goods,1
+Autonomous Tractor,"Agri-tech, IoT, drones & robotics providers",product_goods,1
+Livestock Tracking Sensor,"Agri-tech, IoT, drones & robotics providers",product_goods,1
+Crop Scouting Drone,"Agri-tech, IoT, drones & robotics providers",product_goods,1
+Smart Sensor Farming,"Agri-tech, IoT, drones & robotics providers",product_goods,1
+GPS Guidance System Farming,"Agri-tech, IoT, drones & robotics providers",product_goods,1
+Remote Sensing Camera Agriculture,"Agri-tech, IoT, drones & robotics providers",product_goods,1
+Yield Monitoring Sensor,"Agri-tech, IoT, drones & robotics providers",product_goods,1
+NDVI Sensor,"Agri-tech, IoT, drones & robotics providers",product_goods,1
+Variable Rate Applicator,"Agri-tech, IoT, drones & robotics providers",product_goods,1
+Automated Milking Robot,"Agri-tech, IoT, drones & robotics providers",product_goods,1
+Livestock Ear Tag Sensor,"Agri-tech, IoT, drones & robotics providers",product_goods,1
+Weed Detection Camera,"Agri-tech, IoT, drones & robotics providers",product_goods,1
+Biofertilizer Product,Sustainable & regenerative agriculture solution providers,product_goods,1
+Biopesticide Product,Sustainable & regenerative agriculture solution providers,product_goods,1
+Compost Machine,Sustainable & regenerative agriculture solution providers,product_goods,1
+Organic Soil Amendment,Sustainable & regenerative agriculture solution providers,product_goods,1
+Cover Crop Seed,Sustainable & regenerative agriculture solution providers,product_goods,1
+Carbon Farming Product,Sustainable & regenerative agriculture solution providers,product_goods,1
+Mycorrhizal Inoculant,Sustainable & regenerative agriculture solution providers,product_goods,1
+Biochar,Sustainable & regenerative agriculture solution providers,product_goods,1
+Vermicompost Unit,Sustainable & regenerative agriculture solution providers,product_goods,1
+Regenerative Farming Input,Sustainable & regenerative agriculture solution providers,product_goods,1
+Greenhouse Technology Consortium,Greenhouse / CEA solutions consortium,service_institution,2
+CEA Industry Alliance,Greenhouse / CEA solutions consortium,service_institution,2
+Protected Cultivation Association,Greenhouse / CEA solutions consortium,service_institution,2
+Greenhouse Growers Network,Greenhouse / CEA solutions consortium,service_institution,2
+Vertical Farming Alliance,Greenhouse / CEA solutions consortium,service_institution,2
+Controlled Environment Agriculture Cluster,Greenhouse / CEA solutions consortium,service_institution,2
+Greenhouse Trade Body,Greenhouse / CEA solutions consortium,service_institution,2
+CEA Research Consortium,Greenhouse / CEA solutions consortium,service_institution,2
+Greenhouse Design Consultancy,Greenhouse sustainability consulting & design firm,service_institution,2
+CEA Feasibility Study,Greenhouse sustainability consulting & design firm,service_institution,2
+Greenhouse Energy Audit,Greenhouse sustainability consulting & design firm,service_institution,2
+Sustainable Greenhouse Planning,Greenhouse sustainability consulting & design firm,service_institution,2
+Protected Cultivation Design Service,Greenhouse sustainability consulting & design firm,service_institution,2
+Greenhouse Retrofit Consulting,Greenhouse sustainability consulting & design firm,service_institution,2
+Vertical Farm Design Service,Greenhouse sustainability consulting & design firm,service_institution,2
+Hydroponic System Design Consulting,Greenhouse sustainability consulting & design firm,service_institution,2
+Greenhouse Climate Design Engineering,Greenhouse sustainability consulting & design firm,service_institution,2
+Agriculture Strategy Consulting,Agriculture strategy & CEA advisory,service_institution,2
+CEA Advisory Service,Agriculture strategy & CEA advisory,service_institution,2
+Agribusiness Strategy Consulting,Agriculture strategy & CEA advisory,service_institution,2
+Agricultural Feasibility Study,Agriculture strategy & CEA advisory,service_institution,2
+Farm Business Advisory,Agriculture strategy & CEA advisory,service_institution,2
+Agri Investment Advisory,Agriculture strategy & CEA advisory,service_institution,2
+Agricultural Policy Advisory,Agriculture strategy & CEA advisory,service_institution,2
+Agriculture Market Research,Market intelligence & consulting firm,service_institution,2
+Agri Industry Report,Market intelligence & consulting firm,service_institution,2
+Crop Market Intelligence,Market intelligence & consulting firm,service_institution,2
+Agribusiness Consulting,Market intelligence & consulting firm,service_institution,2
+Agricultural Sector Analysis,Market intelligence & consulting firm,service_institution,2
+Farm Input Market Study,Market intelligence & consulting firm,service_institution,2
+Agri Competitive Intelligence,Market intelligence & consulting firm,service_institution,2
+Agricultural Sustainability Program,Sustainability & impact platform,service_institution,2
+ESG Agriculture Initiative,Sustainability & impact platform,service_institution,2
+Farm Carbon Credit Program,Sustainability & impact platform,service_institution,2
+Sustainable Sourcing Platform Agriculture,Sustainability & impact platform,service_institution,2
+Agri Impact Investment Platform,Sustainability & impact platform,service_institution,2
+Climate Smart Agriculture Program,Sustainability & impact platform,service_institution,2
+Veterinary Hospital,Veterinary hospitals & clinics,service_institution,2
+Animal Health Clinic,Veterinary hospitals & clinics,service_institution,2
+Livestock Veterinary Clinic,Veterinary hospitals & clinics,service_institution,2
+Mobile Veterinary Service,Veterinary hospitals & clinics,service_institution,2
+Veterinary Diagnostic Lab,Veterinary hospitals & clinics,service_institution,2
+Poultry Disease Diagnostic Clinic,Veterinary hospitals & clinics,service_institution,2
+Animal Vaccination Center,Veterinary hospitals & clinics,service_institution,2
+Farm Management Software Adoption,Farm management software & SaaS users,service_institution,2
+Precision Agriculture Software User,Farm management software & SaaS users,service_institution,2
+Crop Planning Software,Farm management software & SaaS users,service_institution,2
+Farm ERP User,Farm management software & SaaS users,service_institution,2
+Livestock Management App User,Farm management software & SaaS users,service_institution,2
+Drone Crop Scouting Service,"Precision ag, drone & sensing users",service_institution,2
+Precision Agriculture Adoption,"Precision ag, drone & sensing users",service_institution,2
+Farm Sensor Network User,"Precision ag, drone & sensing users",service_institution,2
+Satellite Crop Monitoring User,"Precision ag, drone & sensing users",service_institution,2
+Variable Rate Technology User,"Precision ag, drone & sensing users",service_institution,2
+Smart Greenhouse Monitoring System User,Smart greenhouse & livestock monitoring adopters,service_institution,2
+IoT Livestock Monitoring Adopter,Smart greenhouse & livestock monitoring adopters,service_institution,2
+Smart Poultry House Monitoring,Smart greenhouse & livestock monitoring adopters,service_institution,2
+Automated Climate Control Adopter Greenhouse,Smart greenhouse & livestock monitoring adopters,service_institution,2
+Ministry Of Agriculture,Agriculture & food security authorities,service_institution,2
+Food Security Authority,Agriculture & food security authorities,service_institution,2
+National Food Reserve Agency,Agriculture & food security authorities,service_institution,2
+Agricultural Policy Ministry,Agriculture & food security authorities,service_institution,2
+Food Safety Regulatory Authority,Agriculture & food security authorities,service_institution,2
+Agricultural Census Authority,Agriculture & food security authorities,service_institution,2
+Agricultural Development Authority,Regional agricultural development authorities,service_institution,2
+Rural Development Agency,Regional agricultural development authorities,service_institution,2
+Regional Farm Development Board,Regional agricultural development authorities,service_institution,2
+Agricultural Extension Department,Regional agricultural development authorities,service_institution,2
+Farmer Welfare Board,Regional agricultural development authorities,service_institution,2
+Irrigation Department,Water & irrigation authorities,service_institution,2
+Water Resources Authority,Water & irrigation authorities,service_institution,2
+Canal Irrigation Authority,Water & irrigation authorities,service_institution,2
+National Water Authority,Water & irrigation authorities,service_institution,2
+Irrigation Management Board,Water & irrigation authorities,service_institution,2
+Agritech Venture Capital,Agri-focused investors & VCs,service_institution,2
+Agriculture Focused Investment Fund,Agri-focused investors & VCs,service_institution,2
+Farm Equity Investor,Agri-focused investors & VCs,service_institution,2
+AgTech Startup Investor,Agri-focused investors & VCs,service_institution,2
+Agri Impact Fund,Agri-focused investors & VCs,service_institution,2
+Agricultural Development Bank,Banks & DFIs,service_institution,2
+Farm Credit Institution,Banks & DFIs,service_institution,2
+Rural Cooperative Bank,Banks & DFIs,service_institution,2
+Agriculture Finance Corporation,Banks & DFIs,service_institution,2
+Development Finance Institution Agriculture,Banks & DFIs,service_institution,2
+Organic Certification Body,"Certification bodies, labs & standards organisations",service_institution,2
+GlobalGAP Certification,"Certification bodies, labs & standards organisations",service_institution,2
+ISO Certification Agriculture,"Certification bodies, labs & standards organisations",service_institution,2
+Food Safety Testing Lab,"Certification bodies, labs & standards organisations",service_institution,2
+Pesticide Residue Testing Lab,"Certification bodies, labs & standards organisations",service_institution,2
+Seed Testing Laboratory,"Certification bodies, labs & standards organisations",service_institution,2
+Soil Testing Laboratory,"Certification bodies, labs & standards organisations",service_institution,2
+HACCP Certification Agriculture,"Certification bodies, labs & standards organisations",service_institution,2
